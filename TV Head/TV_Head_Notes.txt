@@ -1,0 +1,14 @@
+
+
+
+
+Sources:
+
+Excel Spreadsheet
+https://arduinoplusplus.wordpress.com/2019/11/16/easy-neopixel-bitmaps-using-excel/
+
+Arduino Nunchuk 
+https://projecthub.arduino.cc/infusion/using-a-wii-nunchuk-with-arduino-5ec5b7
+
+FastLED Library
+https://github.com/FastLED/FastLED

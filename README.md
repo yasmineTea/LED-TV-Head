@@ -16,4 +16,4 @@ The full instructions are in the linked .pdf file. However, here's the broad str
 </ul>
 
 <h2>How do I add new expressions?</h2>
-I have included a spreadsheet based tool that you use to draw and converts it into a string of text that the Arduino can read. More details are in the .pdf file! 
+I have included a spreadsheet based tool <i>NeoPixel_Bitmap_Tool_w8by16.xlsx</i> that you use to draw and converts it into a string of text that the Arduino can read. You can also check <i>Expression_Bank.txt</i> for a few premade expressions. More details are in the .pdf file! 

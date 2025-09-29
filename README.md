@@ -1,4 +1,5 @@
 <h1>LED TV Head</h1>
+![TVHead_gif_320 slow](https://github.com/user-attachments/assets/c17760eb-7857-4342-a978-81c6dc954287)
 
 The <i>LED TV Head</i> is an Arduino Nano based gadget that easily cycles through different preloaded images (or expressions) to rgb screens. It is designed to be cheap, low-power and easy to set up. It's also designed to be easily modified if you're so inclined. 
 

@@ -7,7 +7,7 @@
 <ul>
   <li><b>Emotive Expression:</b> A stylish and express your emotions!</li>
   <li><b>Fully Customizable:</b> Configurable expressions let you add your own face banks.</li>
-  <li><b>Rechargeable:</b> Uses lithium batteries are convenient and easy to use. </li>
+  <li><b>Rechargeable:</b> Uses lithium batteries which are convenient and easy to use. </li>
   <!-- <li><b>123:</b> </li> -->
 </ul>
 
